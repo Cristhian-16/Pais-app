@@ -1,0 +1,9 @@
+.input-form {
+    display: flex;
+    justify-content: center;
+}
+
+.input-form input {
+    padding: 5px;
+    width: 50%;
+}
